@@ -1,5 +1,5 @@
 Unit: MW/($/MWh),Fraction of start year capacity
-hard coal,9.53799548621184
+hard coal,0.0
 natural gas steam turbine,0.093
 natural gas combined cycle,6.370002374000933
 nuclear,13.188386333349225
@@ -7,7 +7,7 @@ hydro,0.0
 onshore wind,0.0
 solar PV,2.1899999999999884
 solar thermal,0.0
-biomass,1.1090000000000375
+biomass,0.0
 geothermal,0.0
 petroleum,0.04615000000000062
 natural gas peaker,0.23862056320941127
